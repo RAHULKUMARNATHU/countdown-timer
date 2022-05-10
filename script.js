@@ -4,7 +4,7 @@ const minsE1 =  document.getElementById('mins');
 const secondsE1 =  document.getElementById('seconds');
 
 
-const myLove = '12 may 2022';
+const myLove = '19 July 2022';
 
 
 function countdown(){
