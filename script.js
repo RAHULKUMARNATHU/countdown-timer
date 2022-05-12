@@ -28,7 +28,7 @@ function countdown(){
 }
 
 function formatTime(time){
-    return time < 10 ? `0$(time)` : time ;
+    return time < 10 ? (`0${time}`) : time ;
 }
 // Intial call
 setInterval(countdown,1000);
